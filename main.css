@@ -1,0 +1,14 @@
+#div1{font-size: 16x;display: flex;}
+.img1{height: 40px;width: 40px; }
+#bgm{background-image: url(./images/bg.jpg);height: 500px; background-size: cover;}
+#log{font-size: 20px; color: white; text-decoration: none;}
+#acc{font-size: 20px;color: white; text-decoration: none; border: 2px solid black; padding: 2px;margin-right: 20px;margin-left: 20px;}
+#zom{height: 150px; width: 150px; }
+#zom1{display: flex;align-items: center;justify-content: center;margin-top: 120px;}
+#rest{margin-left: 340px ;color:rgb(0, 0, 0);}
+.pl{text-decoration: none; color: black; font-size: 16px;}
+.img22{height: 450px; width: 350px;}
+.myfoot{color: white;}
+.listing{list-style: none; font-size: 16px;}
+.ull{font-size: 18px;}
+.footing{font-size: 18px; margin: 10px;}
